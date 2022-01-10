@@ -200,6 +200,7 @@ a:hover {
 .section-4 {
     background: hsl(243, 87%, 12%);
     color: white;
+    padding-bottom: 100px;
 }
 
 .section-4 .content {
